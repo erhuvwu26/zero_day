@@ -1,1 +1,1 @@
-my first vagrant
+Hello Ubuntu
